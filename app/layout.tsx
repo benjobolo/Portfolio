@@ -4,6 +4,7 @@ import "./globals.css";
 import { GeistSans } from 'geist/font/sans'
 import { GeistMono } from 'geist/font/mono'
 import { cn } from "@/lib/utils";
+import { Analytics } from "@vercel/analytics/next"
 
 const AnekTelugu = Anek_Telugu({subsets :["latin"],
   variable : "--font-caption",
@@ -22,6 +23,7 @@ export default function RootLayout({
   return (
     <html lang="en" className={cn(GeistSans.variable, GeistMono.variable, AnekTelugu.variable, "font-sans h-full bg-background text-foreground")}>
     <body>{children}</body>
+    <Analytics />
   </html>
   );
 }
