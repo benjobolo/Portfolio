@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://benjaminbaras.vercel.app/sitemap.xml
