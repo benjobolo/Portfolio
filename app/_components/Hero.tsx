@@ -20,7 +20,7 @@ export const Hero = () =>{
                     modernes.
                     <br /> <br/>
                      
-                    Je suis motivé, curieux, et prêt à m'investir dans un environnement où je pourrai 
+                    Je suis motivé, curieux, et prêt à m’investir dans un environnement où je pourrai 
                     apprendre et progresser réellement.
                 </p>
             </div>

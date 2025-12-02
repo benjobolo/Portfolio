@@ -21,7 +21,7 @@ export const Skills = () =>{
                         }}/>
                     <h3 className="text-2xl font-semibold tracking-tight ">React</h3>
                     <p className="text-muted-foreground text-sm">
-                        Mon framework favoris est <Code>React</Code> je l'utilise pour mes projets personnels
+                        Mon framework favoris est <Code>React</Code> je l’utilise pour mes projets personnels
                     </p>
                 </div>
 
@@ -37,7 +37,7 @@ export const Skills = () =>{
                         <JavaIcon size={42} />
                     <h3 className="text-2xl font-semibold tracking-tight ">JAVA</h3>
                     <p className="text-muted-foreground text-sm">
-                        Java est un langage que j'ai beaucoup utilisé durant mes études universitaires.
+                        Java est un langage que j’ai beaucoup utilisé durant mes études universitaires.
                     </p>
                 </div>
 

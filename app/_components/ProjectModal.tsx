@@ -45,7 +45,7 @@ export function ProjectModal({
             {project.links.github && (
               <a
                 href={project.links.github}
-                target="_blank"
+                target="blank"
                 className="underline hover:text-primary"
               >
                 Code source ↗
@@ -55,7 +55,7 @@ export function ProjectModal({
             {project.links.website && (
               <a
                 href={project.links.website}
-                target="_blank"
+                target="blank"
                 className="underline hover:text-primary"
               >
                 Voir le site ↗
@@ -65,7 +65,7 @@ export function ProjectModal({
             {project.links.playstore && (
               <a
                 href={project.links.playstore}
-                target="_blank"
+                target="blank"
                 className="underline hover:text-primary"
               >
                 Play Store ↗
