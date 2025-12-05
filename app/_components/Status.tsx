@@ -76,8 +76,8 @@ export const Status = () =>{
 
 
 const descriptionUpvize=
-    'J\'ai travaillé pour l\'entreprise Wecrea (Bayonne) dans le cadre de mon stage de 2ème année de BTS SIO. '+
-    ' L\'objectif de ce stage était de développer une application de time-tracking pour une utilisation interne à l\'entrprise. '+
+    'J\'ai travaillé pour l\'entreprise Wecrea (Bayonne) dans le cadre de mon stage de 2ème année de BTS SIO.'+
+      ' L\'objectif de ce stage était de développer une application de time-tracking pour une utilisation interne à l\'entrprise. '+
     '\n L\'application à été développée en utilisant le framework Laravel (PHP) pour le back-end et une base de données PostgreSQL pour le stockage des données. '+
     '\n L\application permet une authentification sécurisée avec vérification par mail, un utilisateur peut créer ou rejoindre une entreprise, un administrateur d\'entreprise peut gérer les projets, les employés, et les clients de l\'entreprise. \n Chaque utilisateur peut enregistrer ses temps de travail sur différennts projets auxquels il est affecté et il peut consulter son historique de tracking. \n Un administrateur d\'entreprise peut consulter les rapport de temps de travail pour chaque utilisateurs et pour chaque projet. Il peut choisir une période, une date et exporter les rapports au format CSV.';
 

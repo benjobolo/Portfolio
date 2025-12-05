@@ -5,6 +5,7 @@
   <!-- Page principale -->
   <url>
     <loc>https://benjaminbaras.vercel.app/</loc>
+    <lastmod>2025-12-05</lastmod>
     <priority>1.0</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -14,6 +15,7 @@
     <loc>https://benjaminbaras.vercel.app/CV.pdf</loc>
     <priority>0.5</priority>
     <changefreq>yearly</changefreq>
+    <lastmod>2025-12-05</lastmod>
   </url>
 
 </urlset>
