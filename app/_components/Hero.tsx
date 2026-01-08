@@ -26,7 +26,7 @@ export const Hero = () =>{
             </div>
             <div className="flex-[2] max-md:m-auto ml-auto ">
                 <img
-                    src="../../public/images/profil.jpg"
+                    src="./images/profil.jpg"
                     className="w-full h-auto max-w-xs max-md:w-56 rounded-full self-center m-auto"
                     alt="Photo de profil Benjamin"
                     style={{width: "75%", height:"auto"}}
