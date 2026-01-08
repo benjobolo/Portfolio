@@ -26,7 +26,7 @@ export const Hero = () =>{
             </div>
             <div className="flex-[2] max-md:m-auto ml-auto ">
                 <img
-                    src="https://media.licdn.com/dms/image/v2/D4E03AQGAKJdF88BOxg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1714467998792?e=1765411200&v=beta&t=z8-N40RrVryytQKhlt0P-k7QVYRCh-vWigni5fGn8cU"
+                    src="../../public/images/profil.jpg"
                     className="w-full h-auto max-w-xs max-md:w-56 rounded-full self-center m-auto"
                     alt="Photo de profil Benjamin"
                     style={{width: "75%", height:"auto"}}
